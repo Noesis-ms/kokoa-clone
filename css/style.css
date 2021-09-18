@@ -6,6 +6,7 @@
 /* Components*/
 @import url("components/status-bar.css");
 @import url("components/nav-bar.css");
+@import url("components/screen-head.css");
 
 /* Screens*/
 @import url("screens/login-form.css");
